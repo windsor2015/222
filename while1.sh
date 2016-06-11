@@ -7,4 +7,4 @@ count=`expr $count + 1`
 total=`expr $total + $score`
 done
 avg=`expr $total / $count`
-echo "There are" $count "s:" $avg
+echo "Thaaaaere are" $count "s:" $avg
