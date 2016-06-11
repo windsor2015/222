@@ -8,4 +8,4 @@ total=`expr $total + $score`
 done
 avg=`expr $total / $count`
 echo "Thaaaaere are" $count "s:" $avg
-#±Ê¼Ç±¾ÐÞ¸Ä
+#1111111111111111111111111111111111
